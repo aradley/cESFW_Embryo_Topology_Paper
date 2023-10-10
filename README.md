@@ -12,8 +12,9 @@ Each of the 4 synthetic datasets used in our manuscript can be reproduced by goi
 
 ## Human embryo scRNA-seq workflow
 ### cESFW_Feature_Selection_Workflow
-
-
+The cESFW_Feature_Selection_Workflow workflow in this repository walks the user through the cESFW workflow used in our mansucript to select a subset of highly informative genes from the provideded human embryo scRNA-seq counts matrix. 
+### Human_Embryo_Plotting_Workflow
+The cESFW_Feature_Selection_Workflow workflow in this repository allows the user to re-create all of the plots presented in our manuscript.
 
 
 
