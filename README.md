@@ -1,4 +1,4 @@
-# cESFW_Embryo_Topology_Paper
+# cESFW Embryo Topology Paper
 In this repository we provide the code to reproduce the results in our manuscript (add hyperlink here).
 
 ## cESFW software package
