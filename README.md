@@ -1,5 +1,5 @@
 # cESFW Embryo Topology Paper
-In this repository we provide the code to reproduce the results in our manuscript [Branching topology of the human embryo transcriptome revealed by entropy sort feature weighting](https://www.biorxiv.org/content/10.1101/2023.10.12.562031v1).
+In this repository we provide the code to reproduce the results in our manuscript [Branching topology of the human embryo transcriptome revealed by entropy sort feature weighting](https://journals.biologists.com/dev/article/151/11/dev202832/352632/Branching-topology-of-the-human-embryo).
 
 ## cESFW software package
 The research in our manuscript focusses on introducing our continuous entropy sort feature weighting (cESFW) software. This package can be downloaded and installed from https://github.com/aradley/cESFW
